@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "893071096204",
+    "project_id": "fittrack-app-2749e",
+    "storage_bucket": "fittrack-app-2749e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893071096204:android:f623dd25900a20c53f7ea9",
+        "android_client_info": {
+          "package_name": "com.asm.fittrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893071096204-6msrpv2k40370uan4deg0p7k19dt8sg6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asm.fittrack",
+            "certificate_hash": "8bc2a71ee9cb6b57dda8f586a39a8a9fbce8b0fc"
+          }
+        },
+        {
+          "client_id": "893071096204-qgvai1u2uf5f775ouhsm43gmait8u7pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf2hMYd1oSWommLiAnxs3wIOJkkUr0W6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893071096204-qgvai1u2uf5f775ouhsm43gmait8u7pg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "893071096204-gd8e5dcdkjtlqq5l32s41maqdtueu32s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asm.fittrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
